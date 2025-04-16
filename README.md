@@ -17,7 +17,7 @@ Site vitrine officiel de BV Consulting, conçu pour accompagner les entrepreneur
 
 ## 🖥️ Aperçu
 
-![BV Consulting – preview](./public/landing-preview.png)
+![BV Consulting – preview](./landing-preview.png)
 
 ---
 
